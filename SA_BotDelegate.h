@@ -1,5 +1,10 @@
 //
 //  SA_BotDelegate.h
+//
+//	Copyright (c) 2016 Said Achmiz.
+//
+//	This software is licensed under the MIT license.
+//	See the file "LICENSE" for more information.
 
 #import <Cocoa/Cocoa.h>
 
