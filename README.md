@@ -30,3 +30,5 @@ Likewise, a "bot platform" (i.e. any implementation that consists of, or contain
 The goal of the SA_Bot spec is to abstract the bot and the bot platform away from each other, so as to make individual implementations of both interchangeable with little (or, ideally, no) modification or adaptation needed. If the specification is followed, any bot should be able to work with any bot platform implementation, without having to modify either.
 
 See the header files (SA_Bot.h and SA_BotDelegate.h) for more documentation.
+
+SA_Bot is copyright (c) 2016 Said Achmiz. It is licensed under the MIT license. See the file "LICENSE" for more information.
