@@ -1,10 +1,5 @@
 //
 //  SA_Bot.h
-//  RPGBot
-//
-//  Created by Sandy Achmiz on 12/30/15.
-//
-//
 
 #import <Foundation/Foundation.h>
 
