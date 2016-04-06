@@ -6,8 +6,6 @@
 //	This software is licensed under the MIT license.
 //	See the file "LICENSE" for more information.
 
-#import <Cocoa/Cocoa.h>
-
 @class SA_Bot;
 
 @protocol SA_BotDelegate <NSObject>
